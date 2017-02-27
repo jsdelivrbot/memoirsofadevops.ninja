@@ -1,4 +1,4 @@
 hello
 
-![alt tag](https://cdn.rawgit.com/jlmoody/memoirsofadevops.ninja/d427c13f/opsninja.svg)
+![alt tag](https://cdn.rawgit.com/jlmoody/memoirsofadevops.ninja/14017f22/opsninja.svg)
 
