@@ -14,3 +14,5 @@ A dev-ops ninja of mine pointed out that I might just be abusing the fine line b
 Hats off to the dev-ops ninja.
 
 _pixelbandito_
+
+PS We should all be writing our webpages directly into github edit panels using voice dictation right now. __WTF__
