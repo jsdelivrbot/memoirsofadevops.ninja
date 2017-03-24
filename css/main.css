@@ -41,3 +41,11 @@ ul.posts {
 ul.posts li {
     list-style: none;
 }
+img {
+    display: block;
+    margin: auto;
+    width: 40%;
+}
+.center {
+    text-align: center;
+}
